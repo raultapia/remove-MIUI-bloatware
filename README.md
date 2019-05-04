@@ -2,7 +2,7 @@
 github.com/rautaplop
 
 ## DESCRIPTION
-This file is used for removing bloatware in Xiaomi Redmi 4 with MIUI Global 9.5 Stable
+This file is used for removing bloatware in Xiaomi Redmi 4
 - No root necessary
 - Run while debug mode is connected
 - Comment/Uncomment to uninstall/keep package

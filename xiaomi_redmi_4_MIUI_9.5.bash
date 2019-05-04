@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-### remove_bloatware_xiaomi_redmi_4_MIUI_9.5.bash
+### xiaomi_redmi_4_MIUI_9.5.bash
 ### github.com/rautaplop
 
 ### This file is used for removing bloatware in Xiaomi Redmi 4 with MIUI Global 9.5 Stable

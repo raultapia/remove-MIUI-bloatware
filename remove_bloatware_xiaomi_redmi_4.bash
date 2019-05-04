@@ -7,9 +7,7 @@
 ### No root necessary
 ### Run while debug mode is connected
 ### Comment/Uncomment to uninstall/keep package
-
-### Phone, messages, contacts, camera, clock, downloads
-### google play and google play services apps won't be uninstalled
+### Phone, messages, contacts, camera, clock, downloads google play and google play services apps won't be uninstalled
 
 # --- cn.wps.* --- #
 adb shell pm uninstall --user 0 cn.wps.moffice_eng

@@ -7,3 +7,7 @@ This file is used for removing bloatware in Xiaomi Redmi 4 with MIUI Global 9.5 
 - Run while debug mode is connected
 - Comment/Uncomment to uninstall/keep package
 - Phone, messages, contacts, camera, clock, downloads google play and google play services apps won't be uninstalled
+
+## MIUI VERSIONS
+- MIUI Global 9.5 Stable
+- MIUI Global 10.2 Stable

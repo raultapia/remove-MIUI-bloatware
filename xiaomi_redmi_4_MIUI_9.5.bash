@@ -9,7 +9,7 @@
 ### Comment/Uncomment to uninstall/keep package
 ### Phone, messages, contacts, camera, clock, downloads google play and google play services apps won't be uninstalled
 
-### WARNING: Removing commented packages may crash the some devices
+### WARNING: Removing commented packages may crash the device in some cases
 
 # --- cn.wps.* --- #
 adb shell pm uninstall --user 0 cn.wps.moffice_eng
@@ -85,8 +85,8 @@ adb shell pm uninstall --user 0 com.miui.yellowpage
 #adb shell pm uninstall --user 0 com.touchtype.swiftkey
 
 # --- com.xiaomi.* --- #
-adb shell pm uninstall --user 0 com.xiaomi.account
-adb shell pm uninstall --user 0 com.xiaomi.finddevice
+#adb shell pm uninstall --user 0 com.xiaomi.account
+#adb shell pm uninstall --user 0 com.xiaomi.finddevice
 adb shell pm uninstall --user 0 com.xiaomi.micloud.sdk
 adb shell pm uninstall --user 0 com.xiaomi.midrop
 adb shell pm uninstall --user 0 com.xiaomi.payment

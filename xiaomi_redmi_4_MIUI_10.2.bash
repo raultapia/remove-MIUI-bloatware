@@ -85,8 +85,8 @@ adb shell pm uninstall --user 0 com.miui.yellowpage
 #adb shell pm uninstall --user 0 com.touchtype.swiftkey
 
 # --- com.xiaomi.* --- #
-adb shell pm uninstall --user 0 com.xiaomi.account
-adb shell pm uninstall --user 0 com.xiaomi.finddevice
+#adb shell pm uninstall --user 0 com.xiaomi.account
+#adb shell pm uninstall --user 0 com.xiaomi.finddevice
 adb shell pm uninstall --user 0 com.xiaomi.micloud.sdk
 adb shell pm uninstall --user 0 com.xiaomi.midrop
 adb shell pm uninstall --user 0 com.xiaomi.mipicks

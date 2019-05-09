@@ -3,7 +3,7 @@
 ### xiaomi_redmi_4_MIUI_10.2.bash
 ### github.com/rautaplop
 
-### This file is used to remove bloatware in Xiaomi Redmi 4 with MIUI Global 10.2 Stable
+### This file is used to remove bloatware on Xiaomi Redmi 4 with MIUI Global 10.2 Stable
 ### No root necessary
 ### Run while debug mode is connected
 ### Comment/Uncomment to uninstall/keep package

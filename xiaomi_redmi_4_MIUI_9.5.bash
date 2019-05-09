@@ -9,6 +9,8 @@
 ### Comment/Uncomment to uninstall/keep package
 ### Phone, messages, contacts, camera, clock, downloads google play and google play services apps won't be uninstalled
 
+### WARNING: Removing commented packages may crash the some devices
+
 # --- cn.wps.* --- #
 adb shell pm uninstall --user 0 cn.wps.moffice_eng
 
@@ -21,7 +23,7 @@ adb shell pm uninstall --user 0 com.android.fileexplorer
 adb shell pm uninstall --user 0 com.android.providers.calendar
 
 # --- com.duokan.phone* --- #
-adb shell pm uninstall --user 0 com.duokan.phone.remotecontroller
+#adb shell pm uninstall --user 0 com.duokan.phone.remotecontroller
 
 # --- com.facebook.* --- #
 adb shell pm uninstall --user 0 com.facebook.appmanager
@@ -44,7 +46,7 @@ adb shell pm uninstall --user 0 com.google.android.videos
 adb shell pm uninstall --user 0 com.google.android.youtube
 
 # --- com.lbe.security* --- #
-adb shell pm uninstall --user 0 com.lbe.security.miui
+#adb shell pm uninstall --user 0 com.lbe.security.miui
 
 # --- com.mi.android.* --- #
 adb shell pm uninstall --user 0 com.mi.android.globalFileexplorer
@@ -64,23 +66,23 @@ adb shell pm uninstall --user 0 com.miui.hybrid.accessory
 adb shell pm uninstall --user 0 com.miui.klo.bugreport
 adb shell pm uninstall --user 0 com.miui.notes
 adb shell pm uninstall --user 0 com.miui.player
-adb shell pm uninstall --user 0 com.miui.securityadd
-adb shell pm uninstall --user 0 com.miui.securitycenter
-adb shell pm uninstall --user 0 com.miui.securitycore
+#adb shell pm uninstall --user 0 com.miui.securityadd
+#adb shell pm uninstall --user 0 com.miui.securitycenter
+#adb shell pm uninstall --user 0 com.miui.securitycore
 adb shell pm uninstall --user 0 com.miui.screenrecorder
 adb shell pm uninstall --user 0 com.miui.videoplayer
 adb shell pm uninstall --user 0 com.miui.weather2
 adb shell pm uninstall --user 0 com.miui.yellowpage
 
 # --- com.qualcomm.* --- #
-adb shell pm uninstall --user 0 com.qualcomm.uimremoteclient
+#adb shell pm uninstall --user 0 com.qualcomm.uimremoteclient
 
 # --- com.swiftkey.* --- #
-adb shell pm uninstall --user 0 com.swiftkey.swiftkeyconfigurator
-adb shell pm uninstall --user 0 com.swiftkey.languageprovider
+#adb shell pm uninstall --user 0 com.swiftkey.swiftkeyconfigurator
+#adb shell pm uninstall --user 0 com.swiftkey.languageprovider
 
 # --- com.touchtype.* --- #
-adb shell pm uninstall --user 0 com.touchtype.swiftkey
+#adb shell pm uninstall --user 0 com.touchtype.swiftkey
 
 # --- com.xiaomi.* --- #
 adb shell pm uninstall --user 0 com.xiaomi.account

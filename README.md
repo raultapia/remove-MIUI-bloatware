@@ -1,7 +1,7 @@
-# remove_bloatware_xiaomi_redmi_4
-[![Latest Version](https://img.shields.io/github/release/rautaplop/remove_bloatware_xiaomi_redmi_4)](https://github.com/rautaplop/remove_bloatware_xiaomi_redmi_4/releases)
-[![License       ](https://img.shields.io/github/license/rautaplop/remove_bloatware_xiaomi_redmi_4)](LICENSE)
-[![Size          ](https://img.shields.io/github/repo-size/rautaplop/remove_bloatware_xiaomi_redmi_4)](README.md)
+# remove_MIUI_bloatware
+[![Latest Version](https://img.shields.io/github/release/rautaplop/remove_MIUI_bloatware)](https://github.com/rautaplop/remove_MIUI_bloatware/releases)
+[![License       ](https://img.shields.io/github/license/rautaplop/remove_MIUI_bloatware)](LICENSE)
+[![Size          ](https://img.shields.io/github/repo-size/rautaplop/remove_MIUI_bloatware)](README.md)
 
 This file is used to remove bloatware on Xiaomi MIUI.
 - No root necessary.

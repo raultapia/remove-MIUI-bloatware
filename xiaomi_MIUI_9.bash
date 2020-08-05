@@ -1,13 +1,13 @@
 #!/usr/bin/env bash
 
-### xiaomi_redmi_4_MIUI_9.5.bash
+### xiaomi_MIUI_9.bash
 ### github.com/rautaplop
 
-### This file is used to remove bloatware on Xiaomi Redmi 4 with MIUI Global 9.5 Stable
+### This file is used to remove bloatware on Xiaomi with MIUI Global 9 Stable
 ### No root necessary
 ### Run while debug mode is connected
 ### Comment/Uncomment to uninstall/keep package
-### Phone, messages, contacts, camera, clock, downloads google play and google play services apps won't be uninstalled
+### Phone, messages, contacts, camera, clock, downloads, google play and google play services apps won't be uninstalled
 
 ### WARNING: Removing commented packages may crash the device in some cases
 

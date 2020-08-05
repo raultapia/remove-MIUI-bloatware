@@ -3,31 +3,31 @@
 [![License       ](https://img.shields.io/github/license/rautaplop/remove_bloatware_xiaomi_redmi_4)](LICENSE)
 [![Size          ](https://img.shields.io/github/repo-size/rautaplop/remove_bloatware_xiaomi_redmi_4)](README.md)
 
-This file is used to remove bloatware on Xiaomi Redmi 4.
+This file is used to remove bloatware on Xiaomi MIUI.
 - No root necessary.
 - Run while debug mode is connected.
 - Comment/Uncomment to uninstall/keep package.
 - Phone, messages, contacts, camera, clock, downloads google play and google play services apps won't be uninstalled.
 
 ## 🗃 MIUI Versions
-- MIUI Global 9.5 Stable
-- MIUI Global 10.2 Stable
-- MIUI Global 11.0 Stable
+- MIUI Global 9 Stable
+- MIUI Global 10 Stable
+- MIUI Global 11 Stable
 
 ## 🖥 Usage
-MIUI Global 9.5:
+MIUI Global 9:
 ```
-./xiaomi_redmi_4_MIUI_9.5.bash
-```
-
-MIUI Global 10.2:
-```
-./xiaomi_redmi_4_MIUI_10.2.bash
+./xiaomi_MIUI_9.bash
 ```
 
-MIUI Global 11.0:
+MIUI Global 10:
 ```
-./xiaomi_redmi_4_MIUI_11.0.bash
+./xiaomi_MIUI_10.bash
+```
+
+MIUI Global 11:
+```
+./xiaomi_MIUI_11.bash
 ```
 
 ## 📝 Copyright and license

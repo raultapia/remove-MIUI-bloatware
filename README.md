@@ -12,6 +12,7 @@ This file is used to remove bloatware on Xiaomi Redmi 4.
 ## 🗃 MIUI Versions
 - MIUI Global 9.5 Stable
 - MIUI Global 10.2 Stable
+- MIUI Global 11.0 Stable
 
 ## 🖥 Usage
 MIUI Global 9.5:
@@ -24,5 +25,10 @@ MIUI Global 10.2:
 ./xiaomi_redmi_4_MIUI_10.2.bash
 ```
 
+MIUI Global 11.0:
+```
+./xiaomi_redmi_4_MIUI_11.0.bash
+```
+
 ## 📝 Copyright and license
-Copyright © 2019, [rautaplop](https://github.com/rautaplop). Released under the [MIT License](LICENSE).
+Copyright © 2019-2020, [rautaplop](https://github.com/rautaplop). Released under the [MIT License](LICENSE).

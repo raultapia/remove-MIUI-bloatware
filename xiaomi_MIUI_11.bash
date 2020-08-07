@@ -21,7 +21,7 @@ adb shell pm uninstall --user 0 com.android.calendar
 adb shell pm uninstall --user 0 com.android.chrome
 adb shell pm uninstall --user 0 com.android.email
 adb shell pm uninstall --user 0 com.android.fileexplorer
-adb shell pm uninstall --user 0 com.android.providers.calendar
+#adb shell pm uninstall --user 0 com.android.providers.calendar
 adb shell pm uninstall --user 0 com.android.soundrecorder
 adb shell pm uninstall --user 0 com.android.thememanager
 

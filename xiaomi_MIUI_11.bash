@@ -43,7 +43,8 @@ adb shell pm uninstall --user 0 com.google.android.gm
 adb shell pm uninstall --user 0 com.google.android.googlequicksearchbox
 adb shell pm uninstall --user 0 com.google.android.marvin.talkback
 adb shell pm uninstall --user 0 com.google.android.music
-adb shell pm uninstall --user 0 com.google.android.syncadapters.calendar
+#adb shell pm uninstall --user 0 com.google.android.syncadapters.calendar
+#adb shell pm uninstall --user 0 com.google.android.syncadapters.contacts
 adb shell pm uninstall --user 0 com.google.android.talk
 adb shell pm uninstall --user 0 com.google.android.videos
 adb shell pm uninstall --user 0 com.google.android.youtube

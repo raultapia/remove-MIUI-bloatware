@@ -52,8 +52,14 @@ adb shell pm uninstall --user 0 com.google.android.youtube
 # --- com.lbe.security* --- #
 #adb shell pm uninstall --user 0 com.lbe.security.miui
 
+# --- com.mi.* --- #
+adb shell pm uninstall --user 0 com.mi.global.bbs
+adb shell pm uninstall --user 0 com.mi.global.shop
+adb shell pm uninstall --user 0 com.mi.globalbrowser
+
 # --- com.mi.android.* --- #
 adb shell pm uninstall --user 0 com.mi.android.globalFileexplorer
+adb shell pm uninstall --user 0 com.mi.android.globalminusscreen
 adb shell pm uninstall --user 0 com.mi.android.globalpersonalassistant
 
 # --- com.miui.* --- #
@@ -67,6 +73,7 @@ adb shell pm uninstall --user 0 com.miui.cleanmaster
 adb shell pm uninstall --user 0 com.miui.compass
 adb shell pm uninstall --user 0 com.miui.enbbs
 adb shell pm uninstall --user 0 com.miui.fm
+adb shell pm uninstall --user 0 com.miui.gallery
 adb shell pm uninstall --user 0 com.miui.hybrid
 adb shell pm uninstall --user 0 com.miui.hybrid.accessory
 adb shell pm uninstall --user 0 com.miui.klo.bugreport
@@ -102,3 +109,11 @@ adb shell pm uninstall --user 0 com.xiaomi.mipicks
 adb shell pm uninstall --user 0 com.xiaomi.payment
 adb shell pm uninstall --user 0 com.xiaomi.providers.appindex
 adb shell pm uninstall --user 0 com.xiaomi.scanner
+
+# --- Other apps --- #
+adb shell pm uninstall --user 0 com.alibaba.aliexpresshd
+adb shell pm uninstall --user 0 com.amazon.aa
+adb shell pm uninstall --user 0 com.amazon.mShop.android.shopping
+adb shell pm uninstall --user 0 com.facebook.katana
+adb shell pm uninstall --user 0 com.joom
+adb shell pm uninstall --user 0 com.netflix.mediaclient

@@ -63,6 +63,7 @@ adb shell pm uninstall --user 0 com.mi.android.globalminusscreen
 adb shell pm uninstall --user 0 com.mi.android.globalpersonalassistant
 
 # --- com.miui.* --- #
+adb shell pm uninstall --user 0 com.miui.analytics
 adb shell pm uninstall --user 0 com.miui.android.fashiongallery
 adb shell pm uninstall --user 0 com.miui.bugreport
 adb shell pm uninstall --user 0 com.miui.calculator
@@ -78,6 +79,7 @@ adb shell pm uninstall --user 0 com.miui.hybrid
 adb shell pm uninstall --user 0 com.miui.hybrid.accessory
 adb shell pm uninstall --user 0 com.miui.klo.bugreport
 adb shell pm uninstall --user 0 com.miui.miservice
+adb shell pm uninstall --user 0 com.miui.msa.global
 adb shell pm uninstall --user 0 com.miui.notes
 adb shell pm uninstall --user 0 com.miui.player
 #adb shell pm uninstall --user 0 com.miui.securityadd
@@ -103,12 +105,13 @@ adb shell pm uninstall --user 0 com.miui.yellowpage
 #adb shell pm uninstall --user 0 com.xiaomi.account
 #adb shell pm uninstall --user 0 com.xiaomi.finddevice
 adb shell pm uninstall --user 0 com.xiaomi.glgm
+adb shell pm uninstall --user 0 com.xiaomi.joyose
 adb shell pm uninstall --user 0 com.xiaomi.micloud.sdk
 adb shell pm uninstall --user 0 com.xiaomi.midrop
 adb shell pm uninstall --user 0 com.xiaomi.mipicks
 adb shell pm uninstall --user 0 com.xiaomi.payment
 adb shell pm uninstall --user 0 com.xiaomi.providers.appindex
-adb shell pm uninstall --user 0 com.xiaomi.scanner
+#adb shell pm uninstall --user 0 com.xiaomi.scanner
 
 # --- Other apps --- #
 adb shell pm uninstall --user 0 com.alibaba.aliexpresshd

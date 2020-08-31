@@ -1,4 +1,4 @@
-# remove_MIUI_bloatware
+# remove-MIUI-bloatware
 [![Latest Version](https://img.shields.io/github/release/rautaplop/remove_MIUI_bloatware)](https://github.com/rautaplop/remove_MIUI_bloatware/releases)
 [![License       ](https://img.shields.io/github/license/rautaplop/remove_MIUI_bloatware)](LICENSE)
 [![Size          ](https://img.shields.io/github/repo-size/rautaplop/remove_MIUI_bloatware)](README.md)

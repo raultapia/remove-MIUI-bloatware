@@ -1,7 +1,7 @@
 # remove-MIUI-bloatware
-[![Latest Version](https://img.shields.io/github/release/rautaplop/remove_MIUI_bloatware)](https://github.com/rautaplop/remove_MIUI_bloatware/releases)
-[![License       ](https://img.shields.io/github/license/rautaplop/remove_MIUI_bloatware)](LICENSE)
-[![Size          ](https://img.shields.io/github/repo-size/rautaplop/remove_MIUI_bloatware)](README.md)
+[![Latest Version](https://img.shields.io/github/release/raultapia/remove_MIUI_bloatware)](https://github.com/raultapia/remove_MIUI_bloatware/releases)
+[![License       ](https://img.shields.io/github/license/raultapia/remove_MIUI_bloatware)](LICENSE)
+[![Size          ](https://img.shields.io/github/repo-size/raultapia/remove_MIUI_bloatware)](README.md)
 
 This file is used to remove bloatware on Xiaomi MIUI.
 - No root necessary.
@@ -31,4 +31,4 @@ MIUI Global 11:
 ```
 
 ## 📝 Copyright and license
-Copyright © 2019-2020, [rautaplop](https://github.com/rautaplop). Released under the [MIT License](LICENSE).
+Copyright © 2019-2020, [raultapia](https://github.com/raultapia). Released under the [MIT License](LICENSE).

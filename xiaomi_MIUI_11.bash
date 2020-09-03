@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 ### xiaomi_MIUI_11.bash
-### github.com/rautaplop
+### github.com/raultapia
 
 ### This file is used to remove bloatware on Xiaomi with MIUI Global 11 Stable
 ### No root necessary

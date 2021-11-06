@@ -13,6 +13,7 @@ This file is used to remove bloatware on Xiaomi MIUI.
 - MIUI Global 9 Stable
 - MIUI Global 10 Stable
 - MIUI Global 11 Stable
+- MIUI Global 12 Stable
 
 ## 🖥 Usage
 MIUI Global 9:
@@ -30,5 +31,10 @@ MIUI Global 11:
 ./xiaomi_MIUI_11.bash
 ```
 
+MIUI Global 12:
+```
+./xiaomi_MIUI_12.bash
+```
+
 ## 📝 Copyright and license
-Copyright © 2019-2020, [raultapia](https://github.com/raultapia). Released under the [MIT License](LICENSE).
+Copyright © 2019-2021, [raultapia](https://github.com/raultapia). Released under the [MIT License](LICENSE).
